@@ -14,7 +14,9 @@ The only Unknown component is Kk the Kalman Gain. Since we have measurement valu
 
 
 The two kalman filter equations are,
+
 ![''](https://github.com/sbperceptron/Sensor-Fusion-and-vehicle-tacking-using-Kalman-Filters/blob/master/equation1.gif)
+
 ![''](https://github.com/sbperceptron/Sensor-Fusion-and-vehicle-tacking-using-Kalman-Filters/blob/master/equation2.gif)
 
 # First step:
