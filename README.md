@@ -10,4 +10,11 @@ Xk-1 is the estimate of the signal on previous state
 
 The only Unknown component is Kk the Kalman Gain. Since we have measurement values and the previous estimated signal. We can can caliculate the Kalman gain on each consequent state
 
-   # Kalman filter finds the most optimum averaging factor for each consequent state. Also somehow remembers a little bit about the past states. 
+   # "Kalman filter finds the most optimum averaging factor for each consequent state. Also somehow remembers a little bit about the past states." 
+
+
+The two kalman filter equations are,
+
+
+# First step:
+We need to be sure that kalman filtering conditions apply to the problem.i.e each signal value can be evaluated by using the linear stochastic equation. Inother words each any Xk is a linear combination of its previous value plus a control signal and process noise
