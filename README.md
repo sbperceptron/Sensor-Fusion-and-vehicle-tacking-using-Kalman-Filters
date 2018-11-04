@@ -14,7 +14,8 @@ The only Unknown component is Kk the Kalman Gain. Since we have measurement valu
 
 
 The two kalman filter equations are,
-
+![''](https://github.com/sbperceptron/Sensor-Fusion-and-vehicle-tacking-using-Kalman-Filters/blob/master/equation1.gif)
+![''](https://github.com/sbperceptron/Sensor-Fusion-and-vehicle-tacking-using-Kalman-Filters/blob/master/equation2.gif)
 
 # First step:
 We need to be sure that kalman filtering conditions apply to the problem.i.e each signal value can be evaluated by using the linear stochastic equation. Inother words each any Xk is a linear combination of its previous value plus a control signal and process noise
