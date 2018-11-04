@@ -1,7 +1,7 @@
 # Sensor-Fusion-and-vehicle-tacking-using-Extended-Kalman-Filters
 
 # Kalman filters
-!["Mathematical Equation of Kalman Filter"] (https://github.com/sbperceptron/Sensor-Fusion-and-vehicle-tacking-using-Kalman-Filters/blob/master/insight_formula.gif)
+!['Mathematical Equation of Kalman Filter'](https://github.com/sbperceptron/Sensor-Fusion-and-vehicle-tacking-using-Kalman-Filters/blob/master/insight_formula.gif)
 
 The subscript k indicate states of the system
 The goal is to find Xk in the equation, which is the estimate of signal x in the equation
